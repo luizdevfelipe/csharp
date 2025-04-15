@@ -1,0 +1,7 @@
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex001\funcao-calc-area\funcao-calc-area\bin\Debug\funcao-calc-area.exe.config
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex001\funcao-calc-area\funcao-calc-area\bin\Debug\funcao-calc-area.exe
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex001\funcao-calc-area\funcao-calc-area\bin\Debug\funcao-calc-area.pdb
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex001\funcao-calc-area\funcao-calc-area\obj\Debug\funcao-calc-area.csproj.AssemblyReference.cache
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex001\funcao-calc-area\funcao-calc-area\obj\Debug\funcao-calc-area.csproj.CoreCompileInputs.cache
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex001\funcao-calc-area\funcao-calc-area\obj\Debug\funcao-calc-area.exe
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex001\funcao-calc-area\funcao-calc-area\obj\Debug\funcao-calc-area.pdb

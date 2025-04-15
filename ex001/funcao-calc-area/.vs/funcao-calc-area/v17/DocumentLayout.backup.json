@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lipe0\\Desktop\\Coisas\\Programacao\\csharp\\ex001\\funcao-calc-area\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5316169C-3D12-461D-ADC7-456B0ABBD595}|funcao-calc-area\\funcao-calc-area.csproj|c:\\users\\lipe0\\desktop\\coisas\\programacao\\csharp\\ex001\\funcao-calc-area\\funcao-calc-area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5316169C-3D12-461D-ADC7-456B0ABBD595}|funcao-calc-area\\funcao-calc-area.csproj|solutionrelative:funcao-calc-area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lipe0\\Desktop\\Coisas\\Programacao\\csharp\\ex001\\funcao-calc-area\\funcao-calc-area\\Program.cs",
+              "RelativeDocumentMoniker": "funcao-calc-area\\Program.cs",
+              "ToolTip": "C:\\Users\\lipe0\\Desktop\\Coisas\\Programacao\\csharp\\ex001\\funcao-calc-area\\funcao-calc-area\\Program.cs",
+              "RelativeToolTip": "funcao-calc-area\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T17:36:33.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
