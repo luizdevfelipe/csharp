@@ -1,0 +1,7 @@
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex002\calculo-preco-fabrica-paralelo\calculo-preco-fabrica-paralelo\bin\Debug\calculo-preco-fabrica-paralelo.exe.config
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex002\calculo-preco-fabrica-paralelo\calculo-preco-fabrica-paralelo\bin\Debug\calculo-preco-fabrica-paralelo.exe
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex002\calculo-preco-fabrica-paralelo\calculo-preco-fabrica-paralelo\bin\Debug\calculo-preco-fabrica-paralelo.pdb
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex002\calculo-preco-fabrica-paralelo\calculo-preco-fabrica-paralelo\obj\Debug\calculo-preco-fabrica-paralelo.csproj.AssemblyReference.cache
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex002\calculo-preco-fabrica-paralelo\calculo-preco-fabrica-paralelo\obj\Debug\calculo-preco-fabrica-paralelo.csproj.CoreCompileInputs.cache
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex002\calculo-preco-fabrica-paralelo\calculo-preco-fabrica-paralelo\obj\Debug\calculo-preco-fabrica-paralelo.exe
+C:\Users\lipe0\Desktop\Coisas\Programacao\csharp\ex002\calculo-preco-fabrica-paralelo\calculo-preco-fabrica-paralelo\obj\Debug\calculo-preco-fabrica-paralelo.pdb
